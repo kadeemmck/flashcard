@@ -1,0 +1,26 @@
+body {
+justify-content: center;
+font-family: 'ZCOOL KuaiLe', cursive;
+background-color: lightcoral;
+
+}
+
+#nextButton{
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+
+#addCardButton{
+    border-radius: 50%;
+    background-color: goldenrod;
+}
+#hintButton:active{
+    border-radius: 50%;
+    background-color: dodgerblue;
+ 
+}
+
+#card-body{
+    background-color: aquamarine;
+   
+}
